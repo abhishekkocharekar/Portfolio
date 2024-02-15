@@ -8,7 +8,7 @@ import {
   Tech,
   Projects,
 } from './components';
-
+ 
 const App = () => {
   return (
     <BrowserRouter>
