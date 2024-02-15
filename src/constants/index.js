@@ -167,7 +167,7 @@ const projects = [
   },
   {
     id: 'project-2',
-    name: 'Subsplit Subscriptions',
+    name: 'Subsplit',
     description:
       'Purchase subscriptions together for different platforms such as Netflix, Hulu, Verizon, AT&T etc. Contains a group chat feature for users to communicate with each other and use stripe.js for payment.',
     tags: [

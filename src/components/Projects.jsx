@@ -86,7 +86,7 @@ const ProjectCard = ({
                 src={github}
                 alt="github"
                 className="btn-icon sm:w-[34px] sm:h-[34px] 
-                  w-[20px] h-[20px] object-contain"
+                  w-[15px] h-[15px] object-contain"
               />
               GITHUB REPO
             </button>
