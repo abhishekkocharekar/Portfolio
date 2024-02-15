@@ -54,11 +54,7 @@ const services = [
     icon: backend,
   },
   {
-    title: 'UI/UX Design',
-    icon: ux,
-  },
-  {
-    title: 'Software Prototyping',
+    title: 'Dev Ops/Cloud',
     icon: prototyping,
   },
 ];
@@ -195,7 +191,7 @@ const projects = [
   {
     id: 'project-3',
     name: 'Mario SQL',
-    description: 'Mario SQL is an interactive educational platform designed for students to learn SQL, while playing as Mario and querying a database filled with tables. ',
+    description: 'An interactive educational platform designed for students to learn SQL, while playing as Mario and querying a database filled with tables. ',
     tags: [
       {
         name: 'nextjs',

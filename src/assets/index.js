@@ -11,7 +11,7 @@ import shaq from './personal/AbhishekKocharekar1.jpeg';
 import backend from './icons/backend.png';
 import ux from './icons/ux.png';
 import frontend from './icons/frontend.png';
-import prototyping from './icons/prototyping.png';
+import prototyping from './icons/server.png';
 import github from './icons/github.png';
 import close from './icons/close.png';
 import download from './icons/download.png';

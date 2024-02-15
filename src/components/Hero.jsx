@@ -46,8 +46,9 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              Lorem ipsum dolor sit amet. <br className="sm:block hidden" />
-              consectetur adipisicing elit deleniti, voluptas.
+            A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.
+              {/* Lorem ipsum dolor sit amet. <br className="sm:block hidden" />
+              consectetur adipisicing elit deleniti, voluptas. */}
             </p>
           </div>
           <div
