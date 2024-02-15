@@ -45,7 +45,7 @@ import microverse from './company/DigitusLabs.png';
 
 import komikult from './projects/Zillowclone.jpg';
 import leaderboard from './projects/Subsplit.jpg';
-import math from './projects/marioSQL.jpg';
+import math from './projects/MarioSQL.jpg';
 import movie from './projects/movie-metro.png';
 import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
