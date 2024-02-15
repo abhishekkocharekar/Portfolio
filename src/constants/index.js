@@ -46,11 +46,11 @@ export const navLinks = [
 
 const services = [
   {
-    title: 'Frontend Developer',
+    title: 'Frontend',
     icon: frontend,
   },
   {
-    title: 'Backend Developer',
+    title: 'Backend',
     icon: backend,
   },
   {
@@ -120,14 +120,14 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Software Engineer (Web Development)',
+    title: 'Software Engineer (Web)',
     company_name: 'Equity Data Science',
     icon: coverhunt,
     iconBg: 'white',
     date: 'Jan 2022 - Jun 2022',
   },
   {
-    title: 'Software Engineer (Web Development)',
+    title: 'Software Engineer (Web)',
     company_name: 'Digitus Labs',
     icon: microverse,
     iconBg: 'black',

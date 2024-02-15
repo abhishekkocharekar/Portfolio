@@ -46,9 +46,7 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-            A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.
-              {/* Lorem ipsum dolor sit amet. <br className="sm:block hidden" />
-              consectetur adipisicing elit deleniti, voluptas. */}
+            Passionate individual dedicated to developing end-to-end products for sustainable and scalable social and technical systems, creating meaningful impact.
             </p>
           </div>
           <div
@@ -87,7 +85,7 @@ const Hero = () => {
             // className="absolute bottom-0 ml-[50vw] 
             // lg:ml-[75vw] md:ml-[60vw] xmd:ml-[60vw] 2xl:ml-[65vw]
             // sm:h-[90vh] md:h-[70vh] xl:h-[80vh] scale-50"
-            className="absolute bottom-8 right-8 w-1/4"
+            className="absolute bottom-1 right-1 w-1/3"
             src={shaq}
             alt="shaquille"
           />
