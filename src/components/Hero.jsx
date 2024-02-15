@@ -46,7 +46,7 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-            Passionate individual dedicated to developing end-to-end products for sustainable and scalable social and technical systems, creating meaningful impact.
+            Passionate programmer dedicated to developing end-to-end products for sustainable and scalable social and technical systems, creating meaningful impact.
             </p>
           </div>
           <div
