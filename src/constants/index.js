@@ -145,7 +145,7 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
-    name: 'Zillow Clone',
+    name: 'Real Estate Radar',
     description: 'A website for property lessors and tenants, enabling property listing creation, search by locality, and application submission with enhanced documents.',
     tags: [
       {
