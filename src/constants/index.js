@@ -162,8 +162,8 @@ const projects = [
       },
     ],
     image: komikult,
-    repo: 'https://github.com/shaqdeff/KomiKult',
-    demo: 'https://shaqdeff.github.io/KomiKult/',
+    repo: 'https://github.com/abhishekkocharekar/RealEstateRadar',
+    demo: 'https://github.com/abhishekkocharekar/RealEstateRadar',
   },
   {
     id: 'project-2',
@@ -185,8 +185,8 @@ const projects = [
       },
     ],
     image: leaderboard,
-    repo: 'https://github.com/shaqdeff/Leaderboard',
-    demo: 'https://shaqdeff.github.io/Leaderboard/',
+    repo: 'https://github.com/abhishekkocharekar/Subsplit-Subscriptions',
+    demo: 'https://github.com/abhishekkocharekar/Subsplit-Subscriptions',
   },
   {
     id: 'project-3',
@@ -207,8 +207,8 @@ const projects = [
       },
     ],
     image: math,
-    repo: 'https://github.com/shaqdeff/Math-Magicians',
-    demo: 'https://inspiring-medovik-37d3b3.netlify.app/',
+    repo: 'https://github.com/abhishekkocharekar/Mario-SQL',
+    demo: 'https://github.com/abhishekkocharekar/Mario-SQL',
   },
 ];
 
